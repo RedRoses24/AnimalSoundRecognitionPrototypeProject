@@ -1,0 +1,25 @@
+body{
+    background-image: url(animal_background.png);
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #FFE1CE;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFE1CE;
+    line-height: 2.5;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Montagu Slab', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+    font-size: 14px;
+}
+img:hover{
+    cursor: pointer;
+    background-image: url(speaker.gif);
+}
